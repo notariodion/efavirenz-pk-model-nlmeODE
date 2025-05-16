@@ -1,5 +1,3 @@
-setwd("D:\\GitHub\\Farmakokinetik Efavirenz")
-
 # call packages
 library(nlme)
 library(nlmeODE)
